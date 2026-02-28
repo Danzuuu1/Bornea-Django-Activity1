@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\ACER\OneDrive\ドキュメント\2nd Sem 3rd Year Danilo\IPT\New folder\DjangoActivity\venv
+set VIRTUAL_ENV=C:\Users\ACER\OneDrive\ドキュメント\2nd Sem 3rd Year Danilo\IPT\Bornea-Django-Activity1\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
